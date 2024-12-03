@@ -6,7 +6,7 @@
     </head>
 <body>
 
-<h1 align="center">Machine Learnig & Analytics</h1>
+<h1 align="center">Machine Learning & Analytics</h1>
 
 <p align="center">
   <strong>Introdução:</strong> Esse repositório contém arquivos e datasets para análise dos dados e criação de modelos de machine learning para a solução de problemas com base nos dados. É um MVP da Sprint Machine Learning & Analytics, referente à Pós-Graduação em Ciência de Dados e Analytics, da PUC-RJ.
