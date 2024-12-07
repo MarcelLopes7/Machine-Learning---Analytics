@@ -1,0 +1,6 @@
+Modelo,Cenário,Melhor MAE,Melhor RMSE,Melhores Hiperparâmetros
+Gradient Boosting,Atributos Originais,13.596948348961979,18.456069428624716,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 5, 'min_samples_split': 2, 'n_estimators': 200, 'subsample': 0.7, 'random_state': 42}"
+Gradient Boosting,Com Padronização,13.780784756241365,18.852444536788727,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 200, 'subsample': 0.8, 'random_state': 42}"
+Gradient Boosting,Com Normalização,13.314512305648947,18.077052692111064,"{'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 5, 'min_samples_split': 2, 'n_estimators': 200, 'subsample': 0.7, 'random_state': 42}"
+Lasso,Com Padronização,29.75129534956981,39.42674681709502,"{'alpha': 1.9306977288832496, 'random_state': 42}"
+Regressão Linear,Com Padronização,30.11922459542493,39.45737742034215,{}
