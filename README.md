@@ -25,7 +25,9 @@
 <p>
     Após essa etapa, é realizada a construção do Modelo, com a divisão dos grupos de treino e teste, pré-processamento das variáveis categóricas, seleção dos melhores atributos para o modelo, treino de alguns modelos e com posterior comparação entre os mesmos através das métricas de avaliação definidas, seleção de hiperparâmetros para os modelos com melhor desempenho e teste dos modelos, com avaliações conclusivas a respeito do processo.
 </p>
-
+<p>
+    Com o modelo definido, ele é treinado com todo o dataset e são inseridos novos dados para que o modelo preveja os resultados da variável alvo com base nessas entradas.
+</p>
 <h2>🚀 Execução do Projeto</h2>
 <p>
     O projeto pode ser executado pelo Google Colab. Ao acessar o notebook, há um link que direciona para o Google Colab onde toda a aplicação pode ser executada.
